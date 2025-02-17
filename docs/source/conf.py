@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Housemate App'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'Team 6B'
 
 release = '0.1'
 version = '0.1.0'
