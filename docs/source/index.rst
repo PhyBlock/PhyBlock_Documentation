@@ -1,13 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to 75-Student's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**75-Student** is a Flutter mobile application aimed at increasing productivity for students in everyday life.  
+It provides an *intuitive* user interface and a *rigourous* architechtural model to ensure a smooth user experience.  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+This is technical documentation intended for developers and contributors to the application.  
 
 .. note::
 
