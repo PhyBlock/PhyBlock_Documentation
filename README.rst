@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Documentation for the 75-Student IOS App
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Technical documentation.
+Generated using readthedocs.org.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
