@@ -15,5 +15,14 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Setup and installation
+   System Architechture
+   Code Structure and Conventions
+   App Flow and Features
+   State Management
+   Testing
+   Error Handling and Debugging
+   Performance Optimization
+   Known Issues and Troubleshooting
+   Future Improvements
+   Contributing Guidelines
