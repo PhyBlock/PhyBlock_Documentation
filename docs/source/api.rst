@@ -1,6 +1,8 @@
 API
 ===
 
+.. API
+
 .. autosummary::
    :toctree: generated
 
