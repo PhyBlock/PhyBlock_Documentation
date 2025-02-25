@@ -99,3 +99,14 @@ And finally run the project
 
 Please see the :ref:`API` documentation for information about developing SocDrawer.
 
+
+Running Tests
+-------------
+
+Tests are ran on each commit to every branch, and every merge commit. In order to merge a branch, the tests must pass. Tests should be developed for every new feature you have made. Backend tests are located in the /tests folder. To run the backend tests, simply type the following from the root directory in your backend folder.
+
+.. code-block:: console
+
+     $ pytest
+
+.. FIXME: Frontend tests?
