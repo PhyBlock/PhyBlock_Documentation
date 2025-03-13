@@ -24,7 +24,6 @@ Contents
    State Management
    Testing
    Error Handling and Debugging
-   Performance Optimization
    Known Issues and Troubleshooting
    Future Improvements
    Contributing Guidelines
