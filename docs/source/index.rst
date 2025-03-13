@@ -6,9 +6,7 @@ It provides an *intuitive* user interface and a *rigourous* architechtural model
 
 This is technical documentation intended for developers and contributors to the application.  
 
-.. note::
-
-   This project is under active development.
+.. note:: This project is under active development.
 
 Contents
 --------
