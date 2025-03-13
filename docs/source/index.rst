@@ -11,17 +11,17 @@ This is technical documentation intended for developers and contributors to the 
 Contents
 --------
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Contents
 
-   Setup and installation
-   System Architechture
-   Code Structure and Conventions
-   App Flow and Features
-   State Management
-   Testing
-   Error Handling and Debugging
-   Known Issues and Troubleshooting
-   Future Improvements
-   Contributing Guidelines
+..    Setup and installation
+..    System Architechture
+..    Code Structure and Conventions
+..    App Flow and Features
+..    State Management
+..    Testing
+..    Error Handling and Debugging
+..    Known Issues and Troubleshooting
+..    Future Improvements
+..    Contributing Guidelines
