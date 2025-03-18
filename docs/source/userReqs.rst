@@ -10,7 +10,7 @@ Based on one-to-one and focus group interviews highlighting the need to manage/c
 Communication
 -------------
 ``Users should be able to use chat within the application or link to an external chosen chat tool.``
-Derived from users clearly stating a need during group work for a central means of communication. This was consistent throughout the 3 different                      requirement gathering methods
+Derived from users clearly stating a need during group work for a central means of communication. This was consistent throughout the 3 different requirement gathering methods
 
 Polling
 -------
