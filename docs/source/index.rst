@@ -12,6 +12,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    userReqs
