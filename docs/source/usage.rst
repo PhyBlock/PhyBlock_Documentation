@@ -12,3 +12,7 @@ Installation
 
 setting up and Running the project
 ----------------------------------
+1. Go on to Github and locate the repository
+2. Now navigate where the cloned repository is located - this can be done using Git Bash
+3. Install any libraries/packages that are neccessary ( done with npm install)
+ 
