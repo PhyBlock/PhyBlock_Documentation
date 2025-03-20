@@ -12,6 +12,9 @@ Contents
 
 .. toctree::
 
+   scopeOfProject
    userReqs
    elementsOfImp
+   setUpProject
    mainComponents
+   relevantThemes
