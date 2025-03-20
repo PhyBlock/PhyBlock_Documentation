@@ -1,5 +1,5 @@
 Welcome to WhiskerGarden's documentation!
-===================================
+=========================================
 
 **WhiskerGarden** is a comprehensive mental health application that combines a mood tracker and activity calendar to help users monitor their daily emotional well-being and routines. 
 
