@@ -19,7 +19,7 @@ Contents
 
    usage
    api
-   requirments
+   requirements
    keyComponents
    additionalDependencies
    libraries
