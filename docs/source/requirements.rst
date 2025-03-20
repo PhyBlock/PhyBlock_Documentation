@@ -3,8 +3,8 @@ Requirements:
 
 >Choose a plant
 ---------------
-  -Pick a plant before starting
-  -Able to change if wanted
+  - Pick a plant before starting
+  - Able to change if wanted
 
 >Explore homepage and log a Mood Entry
 --------------------------------------
