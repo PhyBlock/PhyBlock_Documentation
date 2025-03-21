@@ -20,8 +20,9 @@ Purpose and Goals
 -----------------
 
 The main goal of this app is to provide an intuitive and fair system that:
+
 * Enhances accountability within a group work.
 * Encourage equal participation.
 * Reduce miscommunication.
 * Serve as a hub for task coordination, attendance, and communication.
----------------------------------------------------------------------
+
