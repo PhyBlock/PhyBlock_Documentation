@@ -27,3 +27,5 @@ The main goal of this app is to provide an intuitive and fair system that:
 * Serve as a hub for task coordination, attendance, and communication.
 
 
+
+
