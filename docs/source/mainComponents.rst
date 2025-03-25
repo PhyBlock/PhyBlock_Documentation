@@ -7,7 +7,7 @@ This is a simple component that just allows users to create an account and sign 
 
 Create/Join Project
 -------------------
-This is the basis of our project. It allows users to create and join projects which is where all their work is stored
+This is the basis of our project. It allows users to create and join projects. Projects are where users can create tasks, assign them, create meetings and generate contribution reports
 
 Task Creation and Assignment
 ----------------------------

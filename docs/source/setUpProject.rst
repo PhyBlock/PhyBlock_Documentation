@@ -45,13 +45,13 @@ Step-by-Step Guide
 
 7. **Start managing your project**
 
-   - From your Project Dashboard, you can now:
-     - Create and assign tasks
-     - Start tracking attendance
-     - Get notifications according to the frequency set upped.
-     - Visualise the deadline.
-     - Set up communication channels
-     - Generate reports
+   From your Project Dashboard, you can now:
+   - Create and assign tasks
+   - Start tracking attendance
+   - Get notifications according to the frequency that was set.
+   - Visualise the deadline.
+   - Set up communication channels
+   - Generate reports
 
 Tips and Best Practices
 -----------------------
