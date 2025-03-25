@@ -1,4 +1,4 @@
-# Configuration file for the Sphinx documentation builder.
+# Configuration file for the Mood Log Tracker.
 
 # -- Project information
 
