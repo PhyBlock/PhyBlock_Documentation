@@ -46,6 +46,7 @@ Step-by-Step Guide
 7. **Start managing your project**
 
    From your Project Dashboard, you can now:
+
    - Create and assign tasks
    - Start tracking attendance
    - Get notifications according to the frequency that was set.
