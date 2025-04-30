@@ -2,7 +2,7 @@ Welcome to 75-Student's documentation!
 ===================================
 
 **75-Student** is a Flutter mobile application aimed at increasing productivity for students in everyday life.  
-It provides an *intuitive* user interface and a *rigorous* architechtural model to ensure a smooth user experience.  
+It provides an *intuitive* user interface and a *rigorous* architectural model to ensure a smooth user experience.  
 
 This is technical documentation intended for developers and contributors to the application.  
 
@@ -13,7 +13,7 @@ This is technical documentation intended for developers and contributors to the 
    :caption: Contents
 
    Setup and Installation
-   System Architechture
+   System Architecture
    Code Structure and Conventions
    App Flow and Features
    State Management
