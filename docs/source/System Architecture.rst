@@ -12,7 +12,7 @@ The code for each screen is written in its own file in ``lib/userInterfaces``.
 
 Each screen is comprised of between 1 and 3 objects, depending on the nature of the screen. 
 
-Screens which do not store state (e.g. the login screen and profile screen) are comprised primarily of 1 object,
+Screens which do not store state are comprised primarily of 1 object,
 which extends the ``StatelessWidget`` class. 
 Such screens include:
 - ``LogInScreen`` in ``log_in.dart``
