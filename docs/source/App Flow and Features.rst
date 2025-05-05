@@ -60,8 +60,6 @@ Edit habit details and time.
 
 View habit history for past completion records.
 
----
-
 ## 6. Add Task View
 
 This view enables users to add task to their schedule. Users set the following on this page.
