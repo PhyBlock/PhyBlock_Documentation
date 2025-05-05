@@ -42,13 +42,23 @@ Mark habits as completed.
 Edit habit details and time.
 View habit history for past completion records.
 
-6. My Profile View
+6. Add Task View
+This view enables users to add task to their schedule. Users set the following on this page.
+- Start Time - The start and end time for individual task.
+- Duration
+- category
+- repeat
+- location - GPS tracking to enable or disable task Notifcations
+- Notes 
+- Links
+
+7. My Profile View
 Accessible from the Calendar view, the Profile page displays personalized user data:
 
 Shows earned badges based on user progress.
 Displays the difficulty level selected by the user.
 
-7. Mindfulness Page
+8. Mindfulness Page
 Users can access the Mindfulness page to practice guided breathing exercises.
 
 Features a timer widget with controls:
@@ -56,3 +66,4 @@ Features a timer widget with controls:
 - Stop
 - Restart
 Designed to help users engage in short mindful breaks during their routine.
+
