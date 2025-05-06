@@ -3,9 +3,14 @@ Elements Of Implementation
 
 User Interface
 --------------
+**Problem 1:** The text box and where the text was registered were different sizes. This meant that the text wasn't being registered properly
+
+**Solution 1:** We ended up resizing where the text was registered so it fit the text box properly
 
 Frontend
 --------
+**Problem 1:** Regex
+
 
 Backend
 -------
