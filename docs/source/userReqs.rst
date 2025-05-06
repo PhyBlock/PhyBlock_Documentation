@@ -12,12 +12,6 @@ Communication
 ``Users should be able to use chat within the application or link to an external chosen chat tool.``
 Derived from users clearly stating a need during group work for a central means of communication. This was consistent throughout the 3 different requirement gathering methods
 
-Polling
--------
-
-``Users should be able to vote within the group via polls.``
-Identified as a need as interviewees often emphasised the use of diplomatic decision making within groups as important/common. This was heard most commonly through the one to one interviews and via focus groups.
-
 Reporting
 ---------
 
@@ -60,14 +54,8 @@ Collaboration
 ``Users should be able to create, join, and manage projects that contain groups.``
 This was demanded in interviews for streamlined group handling. This was mentioned throughout all the requirement gathering methods.
 
-Notifications
--------------
-
-``Users should be able to receive notifications, which should be customizable regarding what and when.``
-Feedback during interviews identified a desire for a notification system to help group members manage their input in a timely manner, with customizability to balance this functionality. This was mentioned in all the forms of requirement              gathering methods.
-
 Customization
 -------------
 
-``Users should be able to customize their UI, with potential for point-based vanity purchases.``
+``Users should be able to customize their UI.``
 A vanity feature suggested by interviewees in one-to-one and focus groups as desirable for engagement and satisfaction.

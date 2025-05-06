@@ -7,10 +7,27 @@ User Interface
 
 **Solution 1:** We ended up resizing where the text was registered so it fit the text box properly
 
+**Problem 2:**
+
+**Solution 2:**
+
+**Problem 3:**
+
+**Solution 3:**
+
 Frontend
 --------
-**Problem 1:** Regex
+**Problem 1:**
 
+**Solution 1:**
+
+**Problem 2:**
+
+**Solution 2:**
+
+**Problem 3:**
+
+**Solution 3:**
 
 Backend
 -------
