@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Documentation for Dweller
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the documentation for group 6B's Dweller app. An app designed for houseshares to share chores, shopping list and events.
 
 Read the tutorial here:
-
 https://docs.readthedocs.io/en/stable/tutorial/
