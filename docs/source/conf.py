@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Housemate App'
+project = 'Dweller'
 copyright = '2021, Graziella'
 author = 'Team 6B'
 
