@@ -9,41 +9,76 @@ This section guides you through the steps to create a new project. Projects are 
 Step-by-Step Guide
 ------------------
 
+Login and Signup
+-----------------
+
 1. **Log in to your account**
 
    - Visit the ``login`` page.
    - Enter your ``email`` and ``password```.
    - If you don’t have an account yet, click on ``Sign Up``` to create one.
 
-2. **Navigate to the Create Project screen**
+2. **Sign Up for an account**
+
+   - If you are a new user, click on the ``Sign Up`` button.
+   - Fill in the required fields: ``email``, ``password``, and ``confirm password``.
+   - Click on the ``Create Account`` button to register.
+
+Add/Join and edit Projects.
+---------------------------
+   
+1. **Navigate to the Add/Join Project screen**
 
    - After logging in, go to your account dashboard.
-   - Click on the ``Project`` tab from the navigation bar.
+   - Click on the ``Add/Join Project``tab from the navigation bar.
+   - Enter the ``Project Name``and ``Join Code``.:
+   - Select the ``Deadline`` and ``Notification Frequency``.
+   - *(Optional)* Add in ``Google Drive`` and ``Discord Link``.
    - Select ``Create New Project``.
 
-3. **Fill in the project details**
+3. **How to write the details in the project setup**
 
-   - **Project Name**: Enter a ``unique name`` for your project.
-   - **Deadline**: Choose a due date for the overall project.
+   - **Project Name**: Input must be less 50 characters or less but not empty.
    - **Join Code**: Set a ``join code`` (6–10 characters, must include at least one number or special character).
-   - **Notification Frequency** *(optional)*: Choose how often members should receive notifications.
+   - **Deadline**: Choose a due date for the overall project.
+   - **Notification Frequency**: Choose from the dropdown how often members should receive notifications.
+   - **Discord link**: An optional discord invite link can be pasted here, to link the project to a discord server.
+   - **Google Drive link**:  An optional Google Drive invite link can be pasted here, to link the project to a Google Drive server.
 
-4. **Add team members (optional)**
+4. **Edit Project**
+   - Contd. with the same properties as Add/Join project.
+   - Project memebers can be removed by clicking the x in their name.
+   - Click on ``Save Changes`` to implement the edit.
+   - Users are also able to delete project by clicking on ``Delete Project``.
 
-   - You may choose to ``add members``` now or share the join code later.
-   - Members will need the **Project UID** and the **Join Code** to join.
+Add and edit tasks
+------------------
 
-5. **Submit and create**
+1. **How to create and add task**
+   - **Title**: Input must be 
+   - **Description**:
+   - **Priority Level**:
+   - **Due Date**:
+   - **Notification**:
+   - **This belongs to**:
+   - **Task's Weight**:
+   - **Tag**:
+   - **Asignees's**:#
 
-   - Click the ``Create`` button.
-   - If everything is valid, you will be redirected to the **Project Dashboard**.
+2. **How to edit task**
+   - First select the taks that you want to edit.
+   - Contd. with the ``How to create and add task`` properties.
+   - Click on ``Save Changes`` to implement the edit.
+   -  Users are also able to delete task by clicking on ``Delete Task``.
 
-6. **Share the project**
+ Share the project
+ -----------------
 
    - Share the Project UID and Join Code with your teammates so they can join.
    - They can enter this on their dashboard under **“Join Project”**.
 
-7. **Start managing your project**
+Start managing your project
+---------------------------
 
    From your Project Dashboard, you can now:
 
