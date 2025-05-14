@@ -23,3 +23,4 @@ The main bulk of the code for this page is the buttons code. We used IconButtons
 Testing 
 ==================================
 
+The only components that needed testing for this was the use of buttons. In order to test this, we built automated test cases that would test the functionality by simulating a button press. This was done using dart widget testing. We simulated a button being pressed which would then lead to the next page. The test then checked the title of the page to make sure it matched up with the expected outcome.
