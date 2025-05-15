@@ -2,10 +2,22 @@
 Shopping list
 ===================================
 
+The shopping list feature allows users to add items the household needs to buy and share them with the other members
+of the house. Each item holds a name and quanity for the user.
+
+There is also a button which takes the user to the spending page allowing them to see what they have spent over the course of
+thier tenancy.
 
 
 Design
 ================
+
+Code
+================
+
+Classes
+================
+
 
 Testing
 ================

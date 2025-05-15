@@ -19,3 +19,6 @@ Contents
 
    usage
    api
+
+   shoppingList
+   dataInfo
