@@ -1,5 +1,9 @@
 Database: 
-The database is where all the data is stored to aid the frontend application. The database is normalized and uses foreign key relationships, this helps maintain the data integrity and consistency. The database consists of five tables: house_info, user_info, chores, messages, and shopping_list.
+The database is written in SQLite.
+
+The database is where all the data is stored to aid the frontend application. 
+The database is normalized and uses foreign key relationships, this helps maintain the data integrity and consistency. 
+The database consists of five tables: house_info, user_info, chores, messages, and shopping_list.
 
 house_info table:
 
