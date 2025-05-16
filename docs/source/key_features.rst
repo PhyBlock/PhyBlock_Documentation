@@ -12,7 +12,11 @@ Allows the user to log the day and time of thier recycling and general waste col
 
 Calendar
 ----------------------------
-Holds day to day information for each member of the house
+Holds day to day information for each member of the house#
+
+Group Chat
+----------------------------
+allows for the members of the house to communicate between each other.
 
 Profile page
 ---------------------------
