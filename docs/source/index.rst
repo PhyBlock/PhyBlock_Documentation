@@ -18,7 +18,7 @@ Contents
 .. toctree::
 
    usage
-   shoppingList
+   key_features
    dataInfo
    database
    user_profile_page
