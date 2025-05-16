@@ -18,7 +18,9 @@ Contents
 .. toctree::
 
    usage
-   api
 
+features
+--------------
+.. toctree::
    shoppingList
    dataInfo
