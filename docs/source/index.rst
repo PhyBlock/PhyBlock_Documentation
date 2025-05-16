@@ -19,7 +19,7 @@ Contents
 
    usage
    key_features
-   dataInfo
    database
+   dataInfo
    user_profile_page
    home_page
