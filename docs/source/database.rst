@@ -1,4 +1,3 @@
-==================
 Database
 ===================
 The database is written in SQLite.
