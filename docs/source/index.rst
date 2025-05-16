@@ -22,4 +22,4 @@ Contents
    dataInfo
    database
    user_profile_page
-   home_page
+   homepage
