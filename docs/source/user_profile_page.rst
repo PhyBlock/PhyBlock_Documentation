@@ -1,4 +1,6 @@
+======================
 User Profile Page: 
+========================
 
 The user profile page is a screen within the housemate application that displays the current logged in users personal information. 
 The following information is shown:

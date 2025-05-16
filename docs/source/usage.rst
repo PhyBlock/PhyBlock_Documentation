@@ -25,11 +25,9 @@ To install the housemate app.
 
    git clone https://github.com/6B-Best-group/TheHousemateApp.git
 
-Then run
-
-.. code-block:: console
    flutter pub get 
-To ensure all dependencies and packages are installed
+
+Clone the repo and then get the yaml file to ensure dependancies are up to date
 
 Future updates
 -------------------------

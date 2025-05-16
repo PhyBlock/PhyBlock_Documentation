@@ -18,9 +18,8 @@ Contents
 .. toctree::
 
    usage
-
-features
---------------
-.. toctree::
    shoppingList
    dataInfo
+   database
+   user_profile_page
+   home_page

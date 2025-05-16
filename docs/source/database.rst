@@ -1,4 +1,6 @@
-Database: 
+==================
+Database
+===================
 The database is written in SQLite.
 
 The database is where all the data is stored to aid the frontend application. 
