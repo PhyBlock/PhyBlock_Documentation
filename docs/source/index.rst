@@ -9,4 +9,4 @@ Get started by following the usage guide, or explore the evaluation and installa
 
 
 .. toctree::
-  ../evaluation.rst
+  evaluation
