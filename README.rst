@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Official Documentation for PhyBlock Benchmark
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is an official documentation for PhyBlock benchmark.
 
-Read the tutorial here:
+Read the project website here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://phyblock.github.io/
