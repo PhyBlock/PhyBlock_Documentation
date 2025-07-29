@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+PhyBlock Documentation
+======================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+PhyBlock is a benchmark for evaluating physical understanding and planning via 3D block assembly.  
+This documentation provides usage instructions, evaluation pipeline, and reference information for using the PhyBlock codebase and dataset.
 
-.. note::
+Get started by following the usage guide, or explore the evaluation and installation sections below.
 
-   This project is under active development.
-
-Contents
---------
 
 .. toctree::
-
-   usage
-   api
+  evaluation
